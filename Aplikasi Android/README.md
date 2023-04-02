@@ -8,7 +8,8 @@ v1.3 :
 v1.3 (revisi)
 - [PENCET SINI](https://drive.google.com/file/d/1NQefPmu3xznai-5ugZzazXR7s_DtKL-T/view?usp=share_link)
 
-## SOLUTION BLACK CAMERA
+## SOLUSI UNTUK YANG KAMERANYA BLANK / BLACK SCREEN
+coba satu persatu lalu build, jika masih error, lanjut lagi point selanjutnya.
 
     Window -> Vuforia Configuration -> enabled "Enable video background".
     Edit -> Project Settings -> Player -> Resolution and Presentation -> disabled the check in "Use 32-bit Display Buffer"
