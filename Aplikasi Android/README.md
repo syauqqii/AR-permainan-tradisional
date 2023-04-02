@@ -16,5 +16,3 @@ coba satu persatu lalu build, jika masih error, lanjut lagi point selanjutnya.
     Edit -> Project Settings -> Player -> Resolution and Presentation -> enabled the check in "Disable Depth and Stencil"
     Edit -> Project Settings -> Quality -> Rendering -> changed "Anti Aliasing" option to "Disabled".
     Rotated the device.
-    There is only one Scene that is shown right after the Splash screen.
-    Updated to all most recent versions of Unity, Vuforia and Android SO, then repeated all the suggestions.
